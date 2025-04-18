@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.shoetest
+{
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+.pseudoshoes
+{
+    background-color: orangered;
+    width: 8%;
+    height: 0.5vh;
+    margin-left: 44%;
+    margin-top: 1%;
+}
+
+.shoelist
+{
+    display: flex;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.shoelist1
+{
+    margin-left: 1%;
+}
+
+
+.shoelist1 h4{
+    margin-left: 29%;
+    margin-top: 2%;
+}
+
+.shopbtnss
+{
+    position: absolute;
+    margin-top: 2%;
+    margin-left:10%;
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}

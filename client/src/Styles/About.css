@@ -1,0 +1,79 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.storyimg
+{
+    width: 36%;
+    margin-top: 5%;
+    margin-left: 64%;
+}
+
+.stotydiv h1
+{
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 10%;
+    font-size: 65px;
+}
+
+
+.storypara
+{
+    margin-top: -15%;
+    margin-left: 10%;
+}
+
+.storypara2
+{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.founderssets
+{
+    display: flex;
+    align-items: center;
+}
+
+
+.founderdiv1
+{
+    margin-left: 8%;
+}
+
+
+.founderdiv1 h1
+{
+    margin-top: 2%;
+}
+
+.servicesoffer
+{
+    display: flex;
+    align-items: center;
+}
+
+.service1
+{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.service1 h3
+{
+    margin-top: 5%;
+}
+
+.service1 img
+{
+    margin-left: 34%;
+}
+
+.service1 p
+{
+    margin-top: 3%;
+    margin-left: 11%;
+}

@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo1
+{
+    margin-left: 10%;
+}
+
+.btn1
+{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-left: 15%;
+    position : absolute;
+}
+
+.btn1:hover
+{
+    color: white;
+    background-color: orangered;
+}
+
+.cartlogo
+{
+    height: 5vh;
+    position: absolute;
+    margin-left: 8%;
+    margin-top: 0.5%;
+}
+
+
+.cartlogo:hover
+{
+    color: orangered;
+}

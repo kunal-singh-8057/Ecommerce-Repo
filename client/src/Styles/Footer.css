@@ -1,0 +1,115 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.footer1
+{
+    background-color: #242124;
+    width: 100%;
+    height: 60vh;
+    margin-top: 15%;
+}
+
+.img3
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+.p1
+{
+    color: white;
+    position: absolute;
+    width: 25%;
+    margin-top: 10%;
+    margin-left:8%;
+}
+
+.paymentimg
+{
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 7%;
+}
+
+.linkset
+{
+position: absolute;
+margin-left: 35%;
+margin-top:5%;
+}
+
+
+.linkset h2
+{
+    color: white;
+}
+
+.slinks
+{
+    color: lightgray;
+    text-decoration: none;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.linkset2
+{
+    position: absolute;
+    margin-left: 52%;
+    margin-top: 3%;
+
+}
+
+.linkset2 h2
+{
+    position: absolute;
+    margin-top: -12%;
+    color: white;
+}
+
+.linkset2
+{
+    color: lightgray;
+    text-decoration: none;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.linkset2 h3
+{
+    color: white;
+}
+
+.linkset2 p 
+{
+   color: lightgray;
+}
+
+.instalinks
+{
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 4%;
+}
+
+.instalinks h2{
+    color: white;
+}
+
+.insta1
+{
+    width: 25%;
+    margin-left: 1%;
+}
+
+.copyright 
+{
+    color: white;
+    position: absolute;
+    margin-left: 76%;
+    margin-top: 22%;
+}

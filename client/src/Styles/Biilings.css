@@ -1,0 +1,57 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+.billings
+{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.billings input
+{
+    width: 25%;
+    height: 5vh;
+    background-color: lightgray;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+
+.billings button
+{
+    margin-top: 5%;
+    background-color: orangered;
+    color: white;
+    padding: 10px 90px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 3%;
+}
+
+
+.offlinepage
+{
+    margin-left: 55%;
+    margin-top: -65%;
+}
+
+.offlinepage h1
+{
+   margin-left: 15%;
+   margin-top: 4%;
+}
+
+.offlinepage h2
+{
+   margin-left: 25%;
+   margin-top: 2%;
+}
+
+.offlinepagesimages
+{
+    width: 55%;
+}

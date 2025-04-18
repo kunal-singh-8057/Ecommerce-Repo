@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.loginform h1
+{
+    margin-left: 60%;
+    margin-top: 8%;
+}
+
+.loginform input
+{
+    border: none;
+    width: 25%;
+    border-bottom: 1px solid orangered;
+    margin-left: 60%;
+    margin-top: 5%;
+}
+
+.loginform button
+{
+    border: none;
+    border-radius: 10px;
+    background-color: orangered;
+    padding: 10px 20px;
+    color: white;
+    margin-left: 60%;
+    margin-top: 5%;
+}
+
+.loginform img
+{
+    width: 35%;
+    position: absolute;
+}
+
+.loginform p
+{
+    margin-left: 60%;
+    margin-top: 3%;
+}

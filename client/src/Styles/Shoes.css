@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.pppsets
+{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.vpps1
+{
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-left: 3%;
+    width: 75%;
+    border-radius: 10px;
+    height: 45vh;
+}
+
+.productimagesets
+{
+    width: 55%;
+    margin-left: 25%;
+    margin-top: 3%;
+  
+}
+
+.pppname
+{
+    margin-left:32%;
+    margin-top: 5%;
+}
+
+
+.pppprice
+{
+    margin-left: 39%;
+}
+
+.viewdetaisbtn{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-color: orangered;
+    border-radius: 10px;
+    margin-left: 18%;
+}
+
+.searchbar input
+{
+  margin-left: 15%;
+  width: 65%;
+  height: 5vh;
+  border-radius: 5px;
+  border: 1px solid orangered;
+  margin-top: 5%;
+}
+
+.searchicons
+{
+    background-color: orangered;
+    color: white;
+    position: absolute;
+    margin-left: -7.6%;
+    width: 5%;
+    height: 2.3vh;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 5%;
+}

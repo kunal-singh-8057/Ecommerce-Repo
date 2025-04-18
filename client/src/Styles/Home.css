@@ -1,0 +1,144 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.backset
+{
+   overflow-x: hidden;
+}
+
+.backheading
+{
+    position: absolute;
+    width: 60%;
+    margin-top: -25%;
+    margin-left: 12%;
+    overflow-x: hidden;
+}
+
+.b{
+color: orangered;
+}
+
+.t{
+position: absolute;
+margin-top: -6%;
+margin-left: 20%;
+}
+
+.backheading button
+{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: small;
+}
+
+.backheading button:hover
+{
+    background-color: orangered;
+    color: white;
+}
+
+.brandsets
+{
+    display: flex;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.b1
+{
+    margin-left: 4%;
+}
+
+.hoverbrands
+{
+    display: flex;
+    align-items: center;
+   
+}
+
+
+.nb1 
+{
+    margin-left: 9.5%;
+}
+
+.nb1 h1
+{
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 3%;
+    font-size: 25px;
+}
+
+.sh
+{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+    margin-top: 17%;
+    margin-left: -28.5%;
+    
+}
+
+
+.sh:hover
+{
+    color: orangered;
+}
+
+.overlay
+{
+    background-color: pink;
+    width: 50%;
+    height: 51.8vh;
+    position: absolute;
+    margin-top: -12.5%;
+    opacity: 0.2%;
+    margin-top: -25%;
+}
+
+
+.overlay:hover
+{
+    width: 30.8%;
+    opacity: 30%;
+}
+
+
+.season
+{
+   margin-left: 27%;
+}
+
+.pse
+{
+    background-color: black;
+    border-radius: 10px;
+    height: 0.5vh;
+    width: 30%;
+    margin-left: 35%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

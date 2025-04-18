@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.form1 h1 
+{
+    margin-left: 65%;
+    margin-top: 8%;
+}
+
+
+.form1 input
+{
+    margin-left: 65%;
+    margin-top: 3%;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 25%;
+    border-color: orangered;
+
+}
+
+.form1 button
+{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: orangered;
+    color: white;
+    margin-left: 65%;
+    margin-top: 5%;
+}
+
+.form1 img
+{
+    position: absolute;
+    width: 35%;
+    margin-top: -5%;
+}
+
+
+.form1 p
+{
+    position: absolute;
+    margin-left: 65%;
+}
+
+.logobtns
+{
+    text-decoration: none;
+    color: black;
+}
+
+.logobtns:hover
+{
+    color: orangered;
+}

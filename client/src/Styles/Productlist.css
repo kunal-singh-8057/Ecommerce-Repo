@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.productsets
+{
+    display: flex;
+    margin-top: 8%;
+}
+
+.colarge 
+{
+    margin-left: 5%;
+}
+
+.colarge h4
+{
+    margin-left: 6%;
+    position: absolute;
+}
+
+.viewbtn
+{
+    position: absolute;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+
+.pseudo
+{
+   background-color: black;
+   height: 0.5vh;
+   border-radius: 10px;
+   width: 26%;
+   margin-left: 36%;
+}
+
+.vhead
+{
+    margin-left: 34%;
+}
+
+.m1
+{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.m2
+{
+    width: 70%;
+}
+
+
+.viewbtn2
+{
+    position: absolute;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: 11.5%;
+    margin-top: 3%;
+}

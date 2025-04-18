@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.productpng
+{
+    width: 25%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.details h1 
+{
+    font-size: 65px;
+    margin-left: 55%;
+    margin-top: -30%;
+}
+
+.details h4
+{
+
+    margin-left: 60%;
+    margin-top: 5%;
+}
+
+
+.detailsbtns
+{
+    border: none;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 60%;
+    margin-top: 15%;
+}
