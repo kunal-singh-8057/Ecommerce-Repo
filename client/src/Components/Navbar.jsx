@@ -14,6 +14,12 @@ const Navbar = () => {
     navigate("/cartdata")
   }
 
+  const out = ()=>{
+
+    alert("Logout Successfully")
+    navigate("/")
+  }
+
   return (
   <>
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -39,7 +45,7 @@ const Navbar = () => {
 
         <li className="nav-item">
         <FontAwesomeIcon icon={faCartShopping}  className='cartlogo' onClick={navcart}/>
-        <button className="btn1">Logout</button>
+        <button className="btn1" onClick={out}>Logout</button>
         </li>
 
       </ul>

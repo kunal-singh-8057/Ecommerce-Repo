@@ -45,4 +45,14 @@ const viewproductsbyid = async(req,res)=>{
     .catch(err=>res.json(err))
 }
 
-module.exports = {addproducts,viewproducts,viewcategoryproducts,viewproductsbyid}
+
+const deleteproducts = async(req,res)=>{
+    const id = req.params.id
+    await ProductModels.findByIdAndDelete({_id:id})
+    .then(res=>res.json(res))
+    .catch(err=>res.json(err))
+
+}
+
+
+module.exports = {addproducts,viewproducts,viewcategoryproducts,viewproductsbyid,deleteproducts}

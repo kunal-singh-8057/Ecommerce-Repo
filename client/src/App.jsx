@@ -13,6 +13,7 @@ import ProductsDetails from './Components/ProductsDetails'
 import Billingsonline from './Components/Billingsonline'
 import Billingsoffline from './Components/Billingsoffline'
 import Success from './Components/Success'
+import AdmineLogs from '../src/Components/Adminelog'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
   <Routes>
     <Route path='/' element={<Signup/>}></Route>
     <Route path='/login' element={<Login/>}></Route>
+    <Route path='/adminelogs' element={<AdmineLogs/>}></Route>
    
     <Route element={<ProtectedRoutes/>}>
     <Route path='/home' element={<Home/>}></Route>

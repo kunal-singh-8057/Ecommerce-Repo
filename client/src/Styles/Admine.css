@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.phoneclass 
+{
+   width: 49.4%;
+}
+
+.admineform h1
+{
+    color: orangered;
+    margin-left: 65%;
+    margin-top: -40%;
+}
+
+.admineform input
+{
+    margin-left: 55%;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid  orangered;
+    width: 38%;
+    margin-top: 3%;
+}
+
+.admineform button
+{
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 70%;
+    margin-top: 5%;
+}
+
+h1{
+    color: orangered;
+    margin-left: 40%;
+    margin-top: 8%;
+}
+
+.adminesets
+{
+    display: flex;
+    gap: 2%;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+
+.productsdelete
+{
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
